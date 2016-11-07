@@ -5,10 +5,11 @@ my first project for test.
 just for test.
 
 ///////////////////////////////
-##include <string>
-using namespace std
 
-void main()
+void main
+
 {
-cout<<"hello github!"<<endl;
+
+  cout<<"hello github!"<<endl;
+
 }
