@@ -4,7 +4,8 @@ my first project for test.
 
 just for test.
 
-#include <string>
+///////////////////////////////
+##include <string>
 using namespace std
 
 void main()
